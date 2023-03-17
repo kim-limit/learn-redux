@@ -1,1 +1,1 @@
-learn-redux and middle ware( redux-thunk, redux-saga ) use typescript
+# learn-redux and middle ware( redux-thunk, redux-saga ) use typescript
